@@ -8,3 +8,5 @@ enableEmoji = true
 title = "My Coding Journal"
 author = "itszaim"
 description = "Blogging away my coding journey"
+profilePicture = "images/profile_pic.jpg"
+mainSections = ["blog"]
